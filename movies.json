@@ -1,0 +1,408 @@
+{
+  "dates": {
+    "maximum": "2024-12-25",
+    "minimum": "2024-11-13"
+  },
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/tElnmtQ6yz1PjN1kePNl8yMSb59.jpg",
+      "genre_ids": [
+        16,
+        12,
+        10751,
+        35
+      ],
+      "id": 1241982,
+      "original_language": "en",
+      "original_title": "Moana 2",
+      "overview": "Vaiana 2 embarquera les spectateurs dans un périple inédit en compagnie de Vaiana, Maui et d’un improbable nouvel équipage de marins. Après avoir reçu un appel inattendu de ses ancêtres, la jeune femme entreprend un voyage qui la conduira jusqu’aux eaux dangereuses des confins des mers d’Océanie pour y vivre une aventure comme jamais vécue auparavant.",
+      "popularity": 2865.481,
+      "poster_path": "/usdwoEwm68cdeMOvGFPwSk9nLTr.jpg",
+      "release_date": "2024-11-27",
+      "title": "Vaiana 2",
+      "video": false,
+      "vote_average": 7,
+      "vote_count": 527
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hT2yA8oaKVjXHjPWlmy08fdPz9p.jpg",
+      "genre_ids": [
+        12,
+        10751,
+        18,
+        16
+      ],
+      "id": 762509,
+      "original_language": "en",
+      "original_title": "Mufasa: The Lion King",
+      "overview": "Rafiki raconte à la jeune lionne Kiara - fille de Simba et Nala - la légende de Mufasa. Il est épaulé par Timon et Pumbaa, célèbres pour leurs répliques percutantes. Présentée sous forme de flashbacks, l'histoire de Mufasa retrace le parcours d’un lionceau orphelin, seul et désemparé, qui croise un jour la route du sympathique Taka, héritier d’une lignée royale. Cette rencontre inattendue devient le point de départ d’un voyage jalonné de péripéties pour un petit groupe « d’indésirables » formé autour d’eux, désormais en quête de son destin. Leur amitié sera mise à rude épreuve lorsqu’ils devront s’unir pour affronter un adversaire aussi menaçant que redoutable…",
+      "popularity": 1653.939,
+      "poster_path": "/1K0Auuwms87L8xLqLSYomuFgWJV.jpg",
+      "release_date": "2024-12-18",
+      "title": "Mufasa : Le Roi Lion",
+      "video": false,
+      "vote_average": 6.8,
+      "vote_count": 31
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ag66gJCiZ06q1GSJuQlhGLi3Udx.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 1138194,
+      "original_language": "en",
+      "original_title": "Heretic",
+      "overview": "Deux jeunes missionnaires mormones se rendent chez M. Reed, un homme excentrique, pour prêcher et tenter de le convertir. Ce dernier va cependant s'avérer bien plus dangereux qu'elles n'auraient pu l'imaginer.",
+      "popularity": 1042.38,
+      "poster_path": "/61YrcFVQPO4h15SJiLe0vjiWbjk.jpg",
+      "release_date": "2024-11-27",
+      "title": "Heretic",
+      "video": false,
+      "vote_average": 7.2,
+      "vote_count": 431
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/crSL7DkgwyLIaRRIb7xM2ejZbca.jpg",
+      "genre_ids": [
+        12,
+        35,
+        10751,
+        878,
+        28
+      ],
+      "id": 939243,
+      "original_language": "en",
+      "original_title": "Sonic the Hedgehog 3",
+      "overview": "Troisième volet des aventures de Sonic, le rapide hérisson bleu...",
+      "popularity": 1126.404,
+      "poster_path": "/ur92mtkb9mmejINZbmzolzeC8tE.jpg",
+      "release_date": "2024-12-25",
+      "title": "Sonic 3, le film",
+      "video": false,
+      "vote_average": 7.7,
+      "vote_count": 13
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/v9Du2HC3hlknAvGlWhquRbeifwW.jpg",
+      "genre_ids": [
+        28,
+        12,
+        53
+      ],
+      "id": 539972,
+      "original_language": "en",
+      "original_title": "Kraven the Hunter",
+      "overview": "Lors d'un safari avec son père Nikolai, un oligarque russe dont la cruauté a jadis poussé sa mère au suicide, Sergei Kravinoff est attaqué par un lion, qui vient très près de le tuer. La potion miraculeuse de Calypso, une prêtresse vaudou, permet non seulement au garçon de survivre; elle lui confère aussi une force surhumaine et un nouvel objectif: protéger la nature des braconniers et des criminels de toutes sortes. Élevé au titre de \"chasseur\", ses faits d’armes attirent rapidement l’attention d’un assassin redoutable, dont les pouvoirs sont comparables aux siens: le Rhino.",
+      "popularity": 962.545,
+      "poster_path": "/glFPd7vNInGmJxsbZO6wQpZX9qz.jpg",
+      "release_date": "2024-12-18",
+      "title": "Kraven the Hunter",
+      "video": false,
+      "vote_average": 5.7,
+      "vote_count": 126
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/euYIwmwkmz95mnXvufEmbL6ovhZ.jpg",
+      "genre_ids": [
+        28,
+        12,
+        36
+      ],
+      "id": 558449,
+      "original_language": "en",
+      "original_title": "Gladiator II",
+      "overview": "Des années après avoir assisté à la mort du héros vénéré Maximus aux mains de son oncle, Lucius est forcé d'entrer dans le Colisée lorsque son pays est conquis par les empereurs tyranniques qui gouvernent désormais Rome d'une main de fer. La rage au cœur et l'avenir de l'Empire en jeu, Lucius doit se tourner vers son passé pour trouver la force et l'honneur de rendre la gloire de Rome à son peuple.",
+      "popularity": 845.15,
+      "poster_path": "/h2DREh45ZIlPA5rgmqWRlhwdsTQ.jpg",
+      "release_date": "2024-11-13",
+      "title": "Gladiator II",
+      "video": false,
+      "vote_average": 6.7,
+      "vote_count": 1126
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/uVlUu174iiKhsUGqnOSy46eIIMU.jpg",
+      "genre_ids": [
+        18,
+        10749,
+        14
+      ],
+      "id": 402431,
+      "original_language": "en",
+      "original_title": "Wicked",
+      "overview": "Elphaba, une jeune femme incomprise à cause de sa peau verte inhabituelle, doit encore découvrir son véritable pouvoir. Glinda, une jeune femme populaire, dorée par le privilège et l'ambition, doit encore découvrir son véritable coeur. Les deux se rencontrent en tant qu'étudiantes à l'Université de Shiz dans le fantastique Pays d'Oz et forgent une amitié improbable, mais profonde.",
+      "popularity": 649.724,
+      "poster_path": "/kQkgPhj6sCuoMWzPKWQVOWUXzib.jpg",
+      "release_date": "2024-12-04",
+      "title": "Wicked",
+      "video": false,
+      "vote_average": 7.6,
+      "vote_count": 582
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hlfu6g0h0D65SjkVhQBU20zePTl.jpg",
+      "genre_ids": [
+        28,
+        12,
+        14,
+        16
+      ],
+      "id": 1357633,
+      "original_language": "ja",
+      "original_title": "俺だけレベルアップな件 -ReAwakening-",
+      "overview": "Plus d’une décennie s’est écoulée depuis l’apparition soudaine d’étranges portails reliant notre monde à une autre dimension. Depuis, certains humains se sont découverts des pouvoirs surnaturels. On appelle ces individus des chasseurs. Ils gagnent leur vie en utilisant leurs pouvoirs pour conquérir des donjons à l’intérieur de ces portails. Parmi ces valeureux chasseurs, Jinwoo Sung, toutefois connu pour être \"le plus faible de toute l’humanité\". Un jour, Jinwoo est mortellement blessé lorsqu’il tombe par hasard sur un double donjon caché. Miraculeusement rescapé et au bord de la mort, Jinwoo entrevoit une quête et saisit une opportunité qui lui permet dès lors de gagner en puissance très rapidement…",
+      "popularity": 322.236,
+      "poster_path": "/dv6OBYGvSE9qI9RjpNUvHzdvAT5.jpg",
+      "release_date": "2024-12-07",
+      "title": "Solo Leveling -ReAwakening-",
+      "video": false,
+      "vote_average": 7.5,
+      "vote_count": 25
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/l4JOAN5cr0LgFshhgGJXd5nlsgL.jpg",
+      "genre_ids": [
+        28
+      ],
+      "id": 1389147,
+      "original_language": "en",
+      "original_title": "SDI: Secret Department of Intervention",
+      "overview": "",
+      "popularity": 428.2,
+      "poster_path": "/yE1UuFMX32K8xqTbgKTwZRdZMld.jpg",
+      "release_date": "2024-11-28",
+      "title": "SDI: Secret Department of Intervention",
+      "video": false,
+      "vote_average": 5.8,
+      "vote_count": 5
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dWkdmxIkH9y23s9v1PjQFhTGIwo.jpg",
+      "genre_ids": [
+        28,
+        18,
+        53
+      ],
+      "id": 1043905,
+      "original_language": "en",
+      "original_title": "Dirty Angels",
+      "overview": "Lors du retrait des États-Unis d'Afghanistan en 2021, un groupe de femmes soldats se faisant passer pour des secours médicaux est renvoyé sur place pour sauver un groupe d'adolescents kidnappés, pris entre l'ISIS et les talibans.",
+      "popularity": 457.811,
+      "poster_path": "/3O3qSGmjRGc10hMwFul8WDxKE5t.jpg",
+      "release_date": "2024-12-13",
+      "title": "Dirty Angels",
+      "video": false,
+      "vote_average": 5.6,
+      "vote_count": 13
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/A6vAMO3myroRfBwSZetY4GVqaW4.jpg",
+      "genre_ids": [
+        16,
+        14
+      ],
+      "id": 839033,
+      "original_language": "en",
+      "original_title": "The Lord of the Rings: The War of the Rohirrim",
+      "overview": "Centré sur le puissant roi du Rohan, Helm Hammerhand, et sur une bataille légendaire qui a contribué à façonner la Terre du Milieu jusqu'aux événements du Seigneur des Anneaux.",
+      "popularity": 233.467,
+      "poster_path": "/bcDGIZKQ959tnMn0qLl6GxOkbO3.jpg",
+      "release_date": "2024-12-11",
+      "title": "Le Seigneur des Anneaux : La Guerre des Rohirrim",
+      "video": false,
+      "vote_average": 6.704,
+      "vote_count": 71
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/66nlC5LDZmDUWONGkUZT2BrOszG.jpg",
+      "genre_ids": [
+        53,
+        18
+      ],
+      "id": 974576,
+      "original_language": "en",
+      "original_title": "Conclave",
+      "overview": "Le Cardinal Lawrence est chargé de gérer ce processus confidentiel après la mort inattendue du Pape bien-aimé. Lorsque tous les dirigeants les plus puissants de l’Église Catholique sont réunis et enfermés dans le Vatican, Lawrence se retrouve au centre d’une conspiration et découvre un secret qui pourrait changer à jamais l’institution religieuse.",
+      "popularity": 189.671,
+      "poster_path": "/vYEyxF1UT779RiEalpMjUT6kfdf.jpg",
+      "release_date": "2024-12-04",
+      "title": "Conclave",
+      "video": false,
+      "vote_average": 7.1,
+      "vote_count": 363
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/keC82cQ8q0ZHthrbvzWq04kGnbv.jpg",
+      "genre_ids": [
+        80,
+        28,
+        53
+      ],
+      "id": 857598,
+      "original_language": "te",
+      "original_title": "పుష్పా 2 - The Rule",
+      "overview": "Pushpa Raj est devenu une figure puissante et redoutée dans le commerce illégal de bois de santal rouge. Après avoir affronté des ennemis dans le premier volet, ce second chapitre met en lumière sa montée en puissance et sa rivalité intense avec l’officier de police Bhanwar Singh.",
+      "popularity": 146.755,
+      "poster_path": "/ng47E4sph3ykXL5GDUG3kLEXbiB.jpg",
+      "release_date": "2024-12-05",
+      "title": "Pushpa: The Rule - Part 2",
+      "video": false,
+      "vote_average": 7,
+      "vote_count": 24
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2gAStVyyv9C3BSEKhP0a1aM3Qy9.jpg",
+      "genre_ids": [
+        27,
+        14,
+        18
+      ],
+      "id": 426063,
+      "original_language": "en",
+      "original_title": "Nosferatu",
+      "overview": "",
+      "popularity": 159.765,
+      "poster_path": "/xFACGk8BZuZUNnP0vdjoIgYW04S.jpg",
+      "release_date": "2024-12-25",
+      "title": "Nosferatu",
+      "video": false,
+      "vote_average": 9,
+      "vote_count": 2
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/sNBnCmF1ueoERa4uW5kh929KkRO.jpg",
+      "genre_ids": [
+        18,
+        27
+      ],
+      "id": 858017,
+      "original_language": "en",
+      "original_title": "I Saw the TV Glow",
+      "overview": "Owen, un adolescent qui tente de survivre en banlieue, voit sa vie chamboulée quand une camarade de classe lui fait découvrir une mystérieuse émission de télévision de fin de soirée qui dépeint une vision d'un monde surnaturel tout juste sous le leur. Dans la pâle lueur de la télévision, la perception de la réalité d'Owen commence à se fissurer.",
+      "popularity": 142.092,
+      "poster_path": "/kdiear4U0aiaSt36SAAnOd4v17A.jpg",
+      "release_date": "2024-12-02",
+      "title": "I Saw the TV Glow",
+      "video": false,
+      "vote_average": 6,
+      "vote_count": 337
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rtpFIgy1YYw3kx7PCyNhi6xmEFb.jpg",
+      "genre_ids": [
+        18,
+        36
+      ],
+      "id": 1102493,
+      "original_language": "en",
+      "original_title": "Small Things Like These",
+      "overview": "En 1985, Bill Furlong, père de famille dévoué, découvre les secrets troublants du couvent de sa ville et dévoile des vérités bouleversantes le concernant.",
+      "popularity": 117.608,
+      "poster_path": "/huzubg3tFXutNyBCCp1VHTfYaBQ.jpg",
+      "release_date": "2024-11-20",
+      "title": "Small Things Like These",
+      "video": false,
+      "vote_average": 7,
+      "vote_count": 70
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8FWC4tDWB1p006vwiubhai4a8iS.jpg",
+      "genre_ids": [
+        10751,
+        12,
+        14
+      ],
+      "id": 1020969,
+      "original_language": "no",
+      "original_title": "Teddybjørnens Jul",
+      "overview": "Alors que les premiers flocons de neige viennent de pointer le bout de leur nez, Marianne attend avec impatience l’arrivée de Noël avec toute sa famille. Mais la petite fille ne peut s’empêcher de penser à Teddy, un adorable ours en peluche qu’elle a vu sur l’étagère d’un stand du marché de Noël. Elle en est sure, elle l’a vu éternuer : et s’il était bel et bien vivant ? Elle rêve de devenir amie avec lui, mais quelqu’un d’autre vient de le gagner à la loterie… Avec l’aide des autres peluches et un soupçon de magie de Noël, parviendra-t-elle à rejoindre son ourson ?",
+      "popularity": 44.548,
+      "poster_path": "/xegXeb1LbFcU9fR2ZNZw4eColY0.jpg",
+      "release_date": "2024-12-11",
+      "title": "Le Noël de Teddy l'ourson",
+      "video": false,
+      "vote_average": 7.1,
+      "vote_count": 43
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/djE6IF5IPJPmeNsQnxpKxlrtpD7.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 843416,
+      "original_language": "en",
+      "original_title": "Daddio",
+      "overview": "Une jeune femme saute dans un taxi après être arrivée à New York. Le chauffeur entame une conversation inattendue avec sa passagère, qui passe rapidement d'un bavardage amusant à un badinage enjoué, puis à une franchise criante sur des sujets sensibles comme l'amour, la perte, le sexe et la dynamique du pouvoir dans les relations.",
+      "popularity": 32.114,
+      "poster_path": "/dyrCsHUhOfpuci51lHcdAnO3db0.jpg",
+      "release_date": "2024-12-04",
+      "title": "Daddio",
+      "video": false,
+      "vote_average": 6.364,
+      "vote_count": 99
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/p1XtUnWJrmVNqyhYJGIatMNt8C1.jpg",
+      "genre_ids": [
+        16,
+        878,
+        10402,
+        12
+      ],
+      "id": 11049,
+      "original_language": "en",
+      "original_title": "Interstella 5555: The 5tory of the 5ecret 5tar 5ystem",
+      "overview": "Quatre musiciens d'une autre galaxie sont kidnappés par un manager maléfique qui veut en faire le plus grand groupe sur Terre. Quand la musique des Français de Daft Punk rencontre les dessins de Leiji Matsumuto.",
+      "popularity": 30.466,
+      "poster_path": "/2lhOV8CCqsiGL1aIFvQzI0WLTek.jpg",
+      "release_date": "2003-05-28",
+      "title": "Interstella 5555",
+      "video": false,
+      "vote_average": 7.8,
+      "vote_count": 439
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/oqWTbBixgF8XwqzGeFWMzkNwqAw.jpg",
+      "genre_ids": [
+        16,
+        10402,
+        99
+      ],
+      "id": 1236419,
+      "original_language": "en",
+      "original_title": "Piece by Piece",
+      "overview": "Pharrell Williams raconte son histoire personnelle et son parcours professionnel, dictés par sa passion et son talent pour la musique. Ses proches et ses collaborateurs témoignent également de leurs expériences avec cet artiste de renom.",
+      "popularity": 37.817,
+      "poster_path": "/lVGJrdXMohhGjVFHI5LJhwZaIsy.jpg",
+      "release_date": "2024-11-20",
+      "title": "Piece by Piece",
+      "video": false,
+      "vote_average": 7.7,
+      "vote_count": 61
+    }
+  ],
+  "total_pages": 8,
+  "total_results": 158
+}
