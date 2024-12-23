@@ -13,6 +13,9 @@ fetch("movies.json")
     <p class="card__title m-0">${film.original_title} </p>
     <p class="card__description mt-1">${film.overview} </p>
     <p class="card__description mt-1">${moment(film.release_date).format("ll")} </p>
+    <span class="d-inline-block position-absolute bottom-0 end-0 p-1" tabindex="0" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="${film.vote_count} votants">
+        <button class="btn btn-light" type="button" disabled>${film.vote_average} /10</button>
+    </span>
   </div>
 </div>`
         });
