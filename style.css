@@ -111,3 +111,12 @@ button {
   font-size: 0.7rem;
   overflow: hidden;
 }
+
+
+@media(max-width:640px){
+  .scroll-container{
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+  }
+}
