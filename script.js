@@ -1,12 +1,12 @@
 "strict use"
 
 fetch("nextMovies.json")
-    .then((reponse) => reponse.json())
-    .then((movies) => {
-        console.log(movies);
-        movies.results.forEach(film => {
-            moment.locale("fr")
-            document.getElementById("film").innerHTML += `
+  .then((reponse) => reponse.json())
+  .then((movies) => {
+    console.log(movies);
+    movies.results.forEach(film => {
+      moment.locale("fr")
+      document.getElementById("film").innerHTML += `
             <div class="card position-relative p-0 mb-lg-5 rounded">
   <img src="${film.backdrop_path}" class="card-img-top" alt="Test">
   <div class="card__content">
@@ -18,9 +18,9 @@ fetch("nextMovies.json")
     </span>
   </div>
 </div>`
-        });
-        const popoverTriggerList = document.querySelectorAll('[data-bs-toggle="popover"]')
-        const popoverList = [...popoverTriggerList].map(popoverTriggerEl => new bootstrap.Popover(popoverTriggerEl))
+    });
+    const popoverTriggerList = document.querySelectorAll('[data-bs-toggle="popover"]')
+    const popoverList = [...popoverTriggerList].map(popoverTriggerEl => new bootstrap.Popover(popoverTriggerEl))
 
-        document.getElementById("search").style.backgroundImage = `url("${movies.results[0].backdrop_path}")`;
-    })
+    document.getElementById("search").style.backgroundImage = `url("${movies.results[0].backdrop_path}")`;
+  })
