@@ -1,6 +1,6 @@
 "strict use"
 
-fetch("movies.json")
+fetch("nextMovies.json")
     .then((reponse) => reponse.json())
     .then((movies) => {
         console.log(movies);
@@ -21,4 +21,6 @@ fetch("movies.json")
         });
         const popoverTriggerList = document.querySelectorAll('[data-bs-toggle="popover"]')
         const popoverList = [...popoverTriggerList].map(popoverTriggerEl => new bootstrap.Popover(popoverTriggerEl))
+
+        document.getElementById("search").style.backgroundImage = `url("${movies.results[0].backdrop_path}")`;
     })

@@ -1,0 +1,394 @@
+{
+  "dates": {
+    "maximum": "2025-01-15",
+    "minimum": "2024-12-25"
+  },
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/originalhttps://image.tmdb.org/t/p/originalhttps://image.tmdb.org/t/p/originalhttps://image.tmdb.org/t/p/original/zOpe0eHsq0A2NvNyBbtT6sj53qV.jpg",
+      "genre_ids": [
+        878,
+        12,
+        35,
+        10751
+      ],
+      "id": 939243,
+      "original_language": "en",
+      "original_title": "Sonic the Hedgehog 3",
+      "overview": "Troisième volet des aventures de Sonic, le rapide hérisson bleu...",
+      "popularity": 2230.916,
+      "poster_path": "/kGl5474aH79BPKrKlg9JyNFzlls.jpg",
+      "release_date": "2024-12-25",
+      "title": "Sonic 3, le film",
+      "video": false,
+      "vote_average": 8,
+      "vote_count": 60
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/originalhttps://image.tmdb.org/t/p/original/zpaodBqO2lcwJh2SQrFFf1Rn8Jy.jpg",
+      "genre_ids": [
+        10749,
+        18
+      ],
+      "id": 1100099,
+      "original_language": "en",
+      "original_title": "We Live in Time",
+      "overview": "Un chef prometteur et une jeune divorcée voient leur vie changée à jamais lorsqu'une rencontre fortuite les réunit, dans une histoire d'amour profondément émouvante qui s'étend sur une décennie.",
+      "popularity": 392.812,
+      "poster_path": "/ldMZ3sg5kF3KsmIxZ4T6zw7SXOa.jpg",
+      "release_date": "2024-11-07",
+      "title": "L'Amour au présent",
+      "video": false,
+      "vote_average": 7.6,
+      "vote_count": 241
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/originalhttps://image.tmdb.org/t/p/original/2gAStVyyv9C3BSEKhP0a1aM3Qy9.jpg",
+      "genre_ids": [
+        27,
+        14,
+        18
+      ],
+      "id": 426063,
+      "original_language": "en",
+      "original_title": "Nosferatu",
+      "overview": "",
+      "popularity": 148.669,
+      "poster_path": "/xFACGk8BZuZUNnP0vdjoIgYW04S.jpg",
+      "release_date": "2024-12-25",
+      "title": "Nosferatu",
+      "video": false,
+      "vote_average": 7.5,
+      "vote_count": 12
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/originalhttps://image.tmdb.org/t/p/original/k1Kz69L7E3jNymNzLB1FuZ5wPTy.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 1097549,
+      "original_language": "en",
+      "original_title": "Babygirl",
+      "overview": "Romy, PDG d’une grande entreprise, a tout pour être heureuse : un mari aimant, deux filles épanouies et une carrière réussie. Mais un jour, elle rencontre un jeune stagiaire dans la société qu’elle dirige à New York. Elle entame avec lui une liaison torride, quitte à tout risquer pour réaliser ses fantasmes les plus enfouis…",
+      "popularity": 92.486,
+      "poster_path": "/SKZ6xIAKXBYb2A7MC9nprJvOC5.jpg",
+      "release_date": "2025-01-15",
+      "title": "Babygirl",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/originalhttps://image.tmdb.org/t/p/original/r7De9l5mvBAZFu8pdqve1ssdAjO.jpg",
+      "genre_ids": [
+        10402,
+        35,
+        18
+      ],
+      "id": 799766,
+      "original_language": "en",
+      "original_title": "Better Man",
+      "overview": "L'ascension du célèbre chanteur/compositeur britannique Robbie Williams. Devenu une star avec le Boy Band, Take That, dans les années 1990, ce dernier a peu à peu plongé dans les paradis artificiels avant de retrouver le succès en solo en 1997 avec la chanson \"Angels\".",
+      "popularity": 74.607,
+      "poster_path": "/fbGCmMp0HlYnAPv28GOENPShezM.jpg",
+      "release_date": "2025-01-15",
+      "title": "Better Man",
+      "video": false,
+      "vote_average": 8.2,
+      "vote_count": 5
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/originalhttps://image.tmdb.org/t/p/original/2wqYNWasS3cxjAvoNfUTAZ58XGT.jpg",
+      "genre_ids": [
+        18,
+        35
+      ],
+      "id": 1088514,
+      "original_language": "es",
+      "original_title": "La habitación de al lado",
+      "overview": "Ingrid et Martha, amies de longue date, ont débuté leur carrière au sein du même magazine. Lorsqu’Ingrid devient romancière à succès et Martha, reporter de guerre, leurs chemins se séparent. Mais des années plus tard, leurs routes se recroisent dans des circonstances troublantes…",
+      "popularity": 65.47,
+      "poster_path": "/pgizmZCoV2CbHBWQWEInRHzWas9.jpg",
+      "release_date": "2025-01-08",
+      "title": "La Chambre d’à côté",
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 128
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/originalhttps://image.tmdb.org/t/p/original/vL6iYirX4vz38INriaCCpzwCyWN.jpg",
+      "genre_ids": [
+        16,
+        18,
+        10751
+      ],
+      "id": 1106904,
+      "original_language": "ja",
+      "original_title": "窓ぎわのトットちゃん",
+      "overview": "Tokyo, début des années 1940. Tetsuko, que tout le monde appelle Totto-Chan, est une petite fille pleine de vie qui mène la vie dure à son institutrice, qui finit par la renvoyer. Ses parents décident de l’inscrire à Tomoe, une école pas comme les autres où de vieux wagons font office de salles de classe. Son directeur y met l'accent sur l'indépendance et la créativité des enfants. Tandis que la Japon s'enfonce dans la guerre, Totto-Chan va découvrir que les petites expériences de la vie sont plus importantes que les leçons.",
+      "popularity": 58.122,
+      "poster_path": "/16mbW8N4x6WO5z5a6Pxsr9Dp6cw.jpg",
+      "release_date": "2025-01-01",
+      "title": "Totto-Chan, la petite fille à la fenêtre",
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 9
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/originalhttps://image.tmdb.org/t/p/original/34HymsihCLtlIo5Z6TcteXJZAye.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "id": 604685,
+      "original_language": "en",
+      "original_title": "Den of Thieves 2: Pantera",
+      "overview": "La suite des aventures de \"Big Nick\" O'Brien qui traque les méchants dans les rues d'Europe et se rapproche de la capture de Donnie. Pendant ce temps, ce dernier s'est laissé entraîner dans le monde dangereux des voleurs de diamants et de la mafia des Panthères.",
+      "popularity": 52.767,
+      "poster_path": "/mq6Ra2oXRKapp5FCfgPJ3AwKigX.jpg",
+      "release_date": "2025-01-08",
+      "title": "Criminal Squad : Pantera",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/originalhttps://image.tmdb.org/t/p/original/bnw1el612uqShPcDErvUuAXk90N.jpg",
+      "genre_ids": [
+        18,
+        36
+      ],
+      "id": 1000837,
+      "original_language": "pt",
+      "original_title": "Ainda Estou Aqui",
+      "overview": "Quand son mari est enlevé par la dictature militaire dans le Rio des années 70, Eunice est une mère de famille éloignée de la politique. « Je suis encore là » raconte sa métamorphose en une femme déterminée à comprendre et qui va mener un combat acharné contre le régime militaire.",
+      "popularity": 33.315,
+      "poster_path": "/r7TD7HhzlUYfWIS7ZqSgNxylkXV.jpg",
+      "release_date": "2025-01-15",
+      "title": "Je suis toujours là",
+      "video": false,
+      "vote_average": 8.9,
+      "vote_count": 97
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/originalhttps://image.tmdb.org/t/p/original/rn8Sg6C8aWKRWdqY4hIpmOaiuqS.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 710295,
+      "original_language": "en",
+      "original_title": "Wolf Man",
+      "overview": "Nouvelle version du \"Loup-garou\" de 1941.",
+      "popularity": 29.387,
+      "poster_path": "/psv8PateG9PborSOM1eZ2ahYO5m.jpg",
+      "release_date": "2025-01-15",
+      "title": "Wolf Man",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/originalhttps://image.tmdb.org/t/p/original/9qiasnBvCGF7jj7540am6YkEKTa.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 1136837,
+      "original_language": "zh",
+      "original_title": "风流一代",
+      "overview": "Chine début des années 2000. Qiaoqiao et Bin vivent une histoire d’amour passionnée mais fragile. Quand Bin disparaît pour tenter sa chance dans une autre province, Qiaoqiao décide de partir à sa recherche.  En suivant le destin amoureux de son héroïne de toujours, Jia Zhang-ke nous livre une épopée filmique inédite qui traverse tous ses films et 25 ans d’histoire d’un pays en pleine mutation.",
+      "popularity": 21.203,
+      "poster_path": "/AiQNIF1siRv8cHGAPMfr7zey1Px.jpg",
+      "release_date": "2025-01-08",
+      "title": "Les Feux sauvages",
+      "video": false,
+      "vote_average": 7.2,
+      "vote_count": 8
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/originalhttps://image.tmdb.org/t/p/original/swd2e2aU2TBSgYxBM5GgecNheGt.jpg",
+      "genre_ids": [
+        878,
+        53
+      ],
+      "id": 1064758,
+      "original_language": "fr",
+      "original_title": "Planète B",
+      "overview": "France, 2039. Une nuit, des activistes traqués par l'Etat, disparaissent sans laisser aucune trace. Julia Bombarth se trouve parmi eux. A son réveil, elle se découvre enfermée dans un monde totalement inconnu : PLANÈTE B.",
+      "popularity": 17.544,
+      "poster_path": "/w1HbOJ4rp4P5AJHxJPzjQgvw1yo.jpg",
+      "release_date": "2024-12-25",
+      "title": "Planète B",
+      "video": false,
+      "vote_average": 6,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/originalhttps://image.tmdb.org/t/p/original/qNN1i0Zk8ValGXQn48xNXlwcYa5.jpg",
+      "genre_ids": [
+        16,
+        12,
+        14,
+        10751
+      ],
+      "id": 974663,
+      "original_language": "en",
+      "original_title": "200% Wolf",
+      "overview": "Freddy Lupin, caniche héroïque, a tout ce qu'il faut pour diriger sa meute de loups-garous. Sauf le respect. Si seulement il était plus... loup. Mais lorsqu'un vœu malencontreux le transforme en loup-garou et dépose un espiègle lutin de lune sur la terre, Freddy doit rétablir l'ordre cosmique avant que la terre et la lune n'entrent en collision ! Une chose est sure : Freddy ne se posera plus jamais la question d'être un caniche !",
+      "popularity": 16.793,
+      "poster_path": "/pHGB9jN31cDNKhR0VRNZsXZkGZQ.jpg",
+      "release_date": "2025-01-08",
+      "title": "200% Loup",
+      "video": false,
+      "vote_average": 5.1,
+      "vote_count": 10
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/originalhttps://image.tmdb.org/t/p/original/2UU3LaevLx93IZwGgUeVEHVHfBQ.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 1193120,
+      "original_language": "fr",
+      "original_title": "Les Cadeaux",
+      "overview": "Les cadeaux… La plupart d’entre nous les attendent avec impatience. D’autres les redoutent, voire les oublient. A deux jours de Noël, chez les Stain, on redouble d'idées mais elles sont loin d'être toutes bonnes. Et si le pire cadeau était encore à venir ?",
+      "popularity": 16.328,
+      "poster_path": "/pH1W1nWwrgDBHuxxquiCwbj3a9q.jpg",
+      "release_date": "2024-12-25",
+      "title": "Les Cadeaux",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/originalhttps://image.tmdb.org/t/p/original/s9iFz6ggb9NU6rV7ifOwFjdNT3z.jpg",
+      "genre_ids": [
+        35,
+        10402,
+        10749
+      ],
+      "id": 1217484,
+      "original_language": "fr",
+      "original_title": "Joli Joli",
+      "overview": "De Paris à Rome dans les années 70, le destin d’un écrivain fauché percute celui d’une star montante du cinéma. Leur chemin vers l’amour sera semé d’embuches, de quiproquos et rebondissements. Une comédie musicale et tourbillonnante !",
+      "popularity": 15.029,
+      "poster_path": "/fwgldbRNHMrJ3V0ObTMx9lxe2gj.jpg",
+      "release_date": "2024-12-25",
+      "title": "Joli Joli",
+      "video": false,
+      "vote_average": 7,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/originalhttps://image.tmdb.org/t/p/original/aYQA0JODfU2gv0LSd1vdH6lEuLp.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 1172241,
+      "original_language": "es",
+      "original_title": "Pepe",
+      "overview": "Pablo Escobar c'est 30 milliards de dollars, 5000 meurtres, 80% du trafic mondial de cocaïne... et 1 hippopotame : voici l'épopée fantastique de Pepe, de la Namibie à Medellín.",
+      "popularity": 14.629,
+      "poster_path": "/kp48PDp0fdsBPYLXJ6VUiYBzJfV.jpg",
+      "release_date": "2024-12-25",
+      "title": "Pepe",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/originalhttps://image.tmdb.org/t/p/original/d5ZVw4eFCLhK62kwGReDKGQfirD.jpg",
+      "genre_ids": [
+        18,
+        14
+      ],
+      "id": 1128752,
+      "original_language": "en",
+      "original_title": "Bird",
+      "overview": "À 12 ans, Bailey vit avec son frère Hunter et son père Bug, qui les élève seul dans un squat au nord du Kent. Bug n’a pas beaucoup de temps à leur consacrer et Bailey, qui approche de la puberté, cherche de l’attention et de l’aventure ailleurs.",
+      "popularity": 14.445,
+      "poster_path": "/g9XBihKOcsMtxPkW3EoKCG3Ucpx.jpg",
+      "release_date": "2025-01-01",
+      "title": "Bird",
+      "video": false,
+      "vote_average": 7,
+      "vote_count": 16
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/originalhttps://image.tmdb.org/t/p/original/yYkIg2tNYVjKqIJZeYA2LpWlsAg.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 1128864,
+      "original_language": "pt",
+      "original_title": "Banzo",
+      "overview": "Îles de Sao Tomé-et-Principe, 1907. Le docteur Afonso vient refaire sa vie dans une plantation de cacao, où il doit soigner un groupe de serviteurs \"infectés\" par une maladie connue sous le nom de Banzo. Les décès se succèdent les uns aux autres, sans que personne ne semble pouvoir rien y faire. Par crainte que ce phénomène ne soit contagieux, le groupe est envoyé sur une colline isolée au milieu de la forêt.",
+      "popularity": 13.488,
+      "poster_path": "/75jnyKTfKPGHrxFGgyHKClaRur1.jpg",
+      "release_date": "2024-12-25",
+      "title": "Banzo",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/originalhttps://image.tmdb.org/t/p/original/xuHR9lxApSkzYTSw85i2jZV1yT.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 1032765,
+      "original_language": "fr",
+      "original_title": "Mon Inséparable",
+      "overview": "Mona vit avec son fils trentenaire, Joël, qui est \"en retard\". Il travaille dans un établissement spécialisé, un ESAT, et aime passionnément sa collègue Océane, elle aussi en situation de handicap. Alors que Mona ignore tout de cette relation, elle apprend qu’Océane est enceinte. La relation fusionnelle entre mère et fils vacille.",
+      "popularity": 12.887,
+      "poster_path": "/9FLIWNhw3DvHFdYgMwfQZHLuL4e.jpg",
+      "release_date": "2024-12-25",
+      "title": "Mon Inséparable",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/originalhttps://image.tmdb.org/t/p/original/cMCw5w2AUZ0AsFjbnNtB4ZyTNSA.jpg",
+      "genre_ids": [
+        10770,
+        35
+      ],
+      "id": 1194614,
+      "original_language": "fr",
+      "original_title": "Le Livreur de Noël",
+      "overview": "Tandis qu’il attend l’arrivée de ses enfants pour fêter Noël, Julien, en CDD dans une entreprise de livraisons est contraint d’accepter un remplacement au dernier moment. Il promet à ses enfants de rentrer avant minuit et les confie à sa fantasque voisine Olga !  Entre une mauvaise fréquentation du passé qui ressurgit et des livraisons inattendues, le père de famille débute une tournée riche en aventures. Aidé de Sarah, une employée de SAV, Julien va vivre une folle nuit qui pourrait bien le mener au-delà de ce qu’il n’a jamais osé espérer…",
+      "popularity": 12.503,
+      "poster_path": "/osHliYGmUOB0mkfvxXZN4UsWJta.jpg",
+      "release_date": "2024-12-25",
+      "title": "Le Livreur de Noël",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    }
+  ],
+  "total_pages": 3,
+  "total_results": 50
+}
