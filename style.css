@@ -74,7 +74,7 @@ button {
 /* CARD */
 
 .card {
-  width: 30rem;
+  width: 10rem;
   display: flex;
   overflow: hidden;
   perspective: 1000px;
@@ -99,13 +99,13 @@ button {
 }
 
 .card__title {
-  font-size: 1.5rem;
+  font-size: 1rem;
   color: #333;
   font-weight: 700;
 }
 
 .card__description {
-  font-size: 0.875rem;
+  font-size: 0.5rem;
   color: #777;
   line-height: 1.4;
   font-size: 0.7rem;
@@ -113,10 +113,10 @@ button {
 }
 
 
-@media(max-width:640px){
+/* @media(max-width:640px){
   .scroll-container{
     overflow: hidden;
     display: flex;
     flex-direction: column;
   }
-}
+} */
