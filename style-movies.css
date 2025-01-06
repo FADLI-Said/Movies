@@ -1,0 +1,85 @@
+.rounded-circle{
+    width: max-content;
+}
+
+/* #opacity{
+    background-color: black;
+    position: absolute;
+    width: 100vh;
+    height: 100vh;
+} */
+
+/* #affiche{
+    background-image: url("https://image.tmdb.org/t/p/original/icmmSD4vTTDKOq2vvdulafOGw93.jpg");
+} */
+
+#affiche::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.781);
+    z-index: 2;
+}
+
+.content{
+    position: relative;
+    z-index: 3;
+}
+
+#acteur{
+    background-color: white;
+    position: relative;
+    z-index: 10;
+}
+
+#scroll{
+    overflow: auto;
+}
+
+@property --progress-value {
+    syntax: '<integer>';
+    inherits: false;
+    initial-value: 0;
+  }
+  
+  @keyframes js-progress {
+    to { --progress-value: 82;}
+  }
+  
+  .progress-bar {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    
+    /* to center the percentage value */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .progress-bar::before {
+    counter-reset: percentage var(--progress-value);
+    content: counter(percentage) '%';
+    color: black;
+  }
+
+  .js {
+    background: 
+      radial-gradient(closest-side, white 79%, transparent 80% 100%, white 0),
+      conic-gradient(green calc(var(--progress-value) * 1%), white 0);
+    animation: js-progress 2s 1 forwards;
+  }
+  
+  .js::before {
+    animation: js-progress 2s 1 forwards;
+  }
+
+  progress {
+    visibility: hidden;
+    width: 0;
+    height: 0;
+  }
+  
