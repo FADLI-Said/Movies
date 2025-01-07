@@ -28,10 +28,10 @@ fetch(`https://api.themoviedb.org/3/movie/${id}/credits?language=fr-FR`, options
                 let percentage = document.get
                 document.getElementById("affiche").innerHTML = `
                 <div class="row m-0 content">
-                    <img src="https://image.tmdb.org/t/p/w500/${matrix.poster_path}" alt="${matrix.original_title}"
+                    <img src="https://image.tmdb.org/t/p/w500/${matrix.poster_path}" alt="${matrix.title}"
                     class="col-lg-3 col-11 p-0 m-3">
                     <div class="col-lg-8 col-11 ">
-                        <h1 class="fs-2 p-0 m-3">${matrix.original_title}</h1>
+                        <h1 class="fs-2 p-0 m-3">${matrix.title}</h1>
                         <p class="m-3">${matrix.release_date}(FR) · ${genres} · ${heure}h${minute}</p>
                         <div class="progress-bar-container m-3">
                             <div class="progress-bar js">
@@ -64,7 +64,7 @@ fetch(`https://api.themoviedb.org/3/movie/${id}/credits?language=fr-FR`, options
             </div>`;
         }
     })
-    
+
 
 // Permet de scroller une barre horizonatl avec la souris
 document.getElementById("scroll").addEventListener('wheel', (e) => {

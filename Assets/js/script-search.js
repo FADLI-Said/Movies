@@ -17,7 +17,7 @@ fetch('https://api.themoviedb.org/3/movie/now_playing?language=fr-FR&page=1&regi
       document.getElementById("film").innerHTML += `
         <div class="card position-relative p-0 mb-lg-5 rounded">
         <a href="movies.html?id=${film.id}"> 
-          <img src="https://image.tmdb.org/t/p/w500${film.poster_path}" class="card-img-top" alt="${film.original_title}">
+          <img src="https://image.tmdb.org/t/p/w500${film.poster_path}" class="card-img-top" alt="${film.title}">
             <div class="card__content">
             <p class="card__title m-0">${film.title} </p>
             <button class="card__description btn btn-light position-absolute bottom-0 start-0 p-2" type="button" disabled>${moment(film.release_date).format("ll")} </button>
@@ -31,12 +31,29 @@ fetch('https://api.themoviedb.org/3/movie/now_playing?language=fr-FR&page=1&regi
     const popoverTriggerList = document.querySelectorAll('[data-bs-toggle="popover"]')
     const popoverList = [...popoverTriggerList].map(popoverTriggerEl => new bootstrap.Popover(popoverTriggerEl))
 
-    document.getElementById("search").style.backgroundImage = `url("https://image.tmdb.org/t/p/original${movies.results[0].backdrop_path}")`;
   })
 
-  // Scroll horizontal possible avce la roulette de la souris
-document.getElementById('film').addEventListener('wheel', (e) => {
-  e.preventDefault();
-  e.currentTarget.scrollLeft += e.deltaY;
-});
+  fetch('https://api.themoviedb.org/3/movie/upcoming?language=fr-FR&page=1&region=FR', options)
+  .then((reponse) => reponse.json())
+  .then((movies) => {
+    console.log(movies);
+    movies.results.forEach(film => {
+      moment.locale("fr")
+      document.getElementById("film").innerHTML += `
+        <div class="card position-relative p-0 mb-lg-5 rounded">
+        <a href="movies.html?id=${film.id}"> 
+          <img src="https://image.tmdb.org/t/p/w500${film.poster_path}" class="card-img-top" alt="${film.title}">
+            <div class="card__content">
+            <p class="card__title m-0">${film.title} </p>
+            <button class="card__description btn btn-light position-absolute bottom-0 start-0 p-2" type="button" disabled>${moment(film.release_date).format("ll")} </button>
+            <span class="d-inline-block m-0 position-absolute bottom-0 end-0 p-0" tabindex="0" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="${film.vote_count} votants">
+            <button class="btn btn-light" type="button" disabled>${film.vote_average} /10</button>
+            </span>
+            </div>
+        </a>
+        </div>`
+    });
+    const popoverTriggerList = document.querySelectorAll('[data-bs-toggle="popover"]')
+    const popoverList = [...popoverTriggerList].map(popoverTriggerEl => new bootstrap.Popover(popoverTriggerEl))
 
+  })

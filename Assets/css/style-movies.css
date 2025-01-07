@@ -2,16 +2,9 @@
     width: max-content;
 }
 
-/* #opacity{
-    background-color: black;
-    position: absolute;
-    width: 100vh;
-    height: 100vh;
-} */
-
-/* #affiche{
-    background-image: url("https://image.tmdb.org/t/p/original/icmmSD4vTTDKOq2vvdulafOGw93.jpg");
-} */
+nav{
+  z-index: 10;
+}
 
 #affiche::before {
     content: "";
