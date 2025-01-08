@@ -22,7 +22,7 @@
                 <div class="collapse navbar-collapse" id="navbarNavDropdown">
                     <ul class="navbar-nav">
                         <li class="nav-item">
-                            <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+                            <a class="nav-link active" aria-current="page" href="index.html">Accueil</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="#film">A l'affiche</a>
@@ -46,11 +46,13 @@
             Commence Ici !
         </h1>
         <div class="position-relative p-0" id="input">
-            <input type="text" class="form-control col-lg-9 rounded-pill"
-                placeholder="Rechercher un film, une série, etc..." aria-label="Recherche de films et series"
-                aria-describedby="button-addon2">
-            <button class="btn btn-outline-secondary btn-light col-lg-2 position-absolute top-0 end-0 rounded-pill"
-                type="button" id="button-addon2">Recherche</button>
+            <form action="search.html">
+                <input name="idMovie" type="text" class="form-control col-lg-9 rounded-pill"
+                    placeholder="Rechercher un film, une série, etc..." aria-label="Recherche de films et series"
+                    aria-describedby="button-addon2">
+                <button class="btn btn-outline-secondary btn-light col-lg-2 position-absolute top-0 end-0 rounded-pill"
+                    type="submit" id="button-addon2">Recherche</button>
+            </form>
         </div>
     </div>
 
@@ -59,6 +61,12 @@
     <section id="film" class="my-3 mx-0 px-3 row flex-nowrap gap-lg-5 gap-3 scroll-container">
     </section>
 
+    <h2 class="px-3">Bandes-annonces</h2>
+
+    <section id="trailer" class="my-3 mx-0 px-3 row flex-nowrap gap-lg-5 gap-3 scroll-container">
+    </section>
+
+
     <h2 class="px-3">Prochaine sorties</h2>
 
     <section id="nextFilm" class="my-3 mx-0 px-3 row flex-nowrap gap-lg-5 gap-3 scroll-container">
@@ -66,6 +74,7 @@
 
 
 
+    <script src="https://kit.fontawesome.com/50a1934b21.js" crossorigin="anonymous"></script>
     <script src="./Assets/js/script.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"

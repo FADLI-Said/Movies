@@ -21,7 +21,7 @@
             <div class="collapse navbar-collapse" id="navbarNavDropdown">
               <ul class="navbar-nav">
                 <li class="nav-item">
-                  <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+                  <a class="nav-link active" aria-current="page" href="index.html">Accueil</a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" href="index.html">A l'affiche</a>
@@ -43,15 +43,17 @@
             Commence Ici !
         </h1>
         <div class="position-relative p-0" id="input">
-            <input type="text" class="form-control col-lg-9 rounded-pill"
-                placeholder="Rechercher un film, une série, etc..." aria-label="Recipient's username"
-                aria-describedby="button-addon2">
-            <button class="btn btn-outline-secondary btn-light col-lg-2 position-absolute top-0 end-0 rounded-pill"
-                type="button" id="button-addon2">Recherche</button>
-        </div>
+          <form action="search.html">
+              <input name="idMovie" type="text" class="form-control col-lg-9 rounded-pill"
+                  placeholder="Rechercher un film, une série, etc..." aria-label="Recherche de films et series"
+                  aria-describedby="button-addon2">
+              <button class="btn btn-outline-secondary btn-light col-lg-2 position-absolute top-0 end-0 rounded-pill"
+                  type="submit" id="button-addon2">Recherche</button>
+          </form>
+      </div>
     </div>
 
-    <section id="film" class="my-3 mx-0 px-3 row flex-wrap gap-lg-5 gap-3 scroll-container">
+    <section id="film" class="my-3 mx-0 px-3 row flex-wrap justify-content-center gap-lg-5 gap-3 scroll-container">
     </section>
 
     <script src="./Assets/js/script-search.js"></script>

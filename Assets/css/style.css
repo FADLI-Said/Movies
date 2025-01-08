@@ -116,3 +116,21 @@ button {
   font-size: 0.7rem;
   overflow: hidden;
 }
+
+#trailer a{
+  width: max-content;
+}
+
+#trailer i{
+  width: max-content;
+  font-size: 3rem;
+  color: white;
+}
+
+#trailer>a:hover i{
+  color: rgb(255, 0, 0);
+}
+
+#trailer img{
+  width: 30rem;
+}

@@ -28,7 +28,7 @@ fetch(`https://api.themoviedb.org/3/movie/${id}/credits?language=fr-FR`, options
                 let percentage = document.get
                 document.getElementById("affiche").innerHTML = `
                 <div class="row m-0 content">
-                    <img src="https://image.tmdb.org/t/p/w500/${matrix.poster_path}" alt="${matrix.title}"
+                    <img src="${matrix.poster_path == null ? "https://www.themoviedb.org/assets/2/v4/glyphicons/basic/glyphicons-basic-38-picture-grey-c2ebdbb057f2a7614185931650f8cee23fa137b93812ccb132b9df511df1cfac.svg" : `https://image.tmdb.org/t/p/w500${matrix.poster_path}`}" alt="${matrix.title}"
                     class="col-lg-3 col-11 p-0 m-3">
                     <div class="col-lg-8 col-11 ">
                         <h1 class="fs-2 p-0 m-3">${matrix.title}</h1>
@@ -55,8 +55,7 @@ fetch(`https://api.themoviedb.org/3/movie/${id}/credits?language=fr-FR`, options
         for (let acteur = 0; acteur < 10; acteur++) {
             document.getElementById("scroll").innerHTML += `
             <div class="card p-0" style="width: 10rem;">
-                <img src="https://image.tmdb.org/t/p/w500${credit.cast[acteur].profile_path}" class="card-img-top"
-                    alt="Image de ${credit.cast[acteur].name}">
+                <img src="${credit.cast[acteur].profile_path == null ? "https://www.themoviedb.org/assets/2/v4/glyphicons/basic/glyphicons-basic-4-user-grey-d8fe957375e70239d6abdd549fd7568c89281b2179b5f4470e2e12895792dfa5.svg" : `https://image.tmdb.org/t/p/w500${credit.cast[acteur].profile_path}`}" class="card-img-top" style="height: 237px;" alt="Image de ${credit.cast[acteur].name}">
                 <div class="card-body">
                     <h5 class="card-title">${credit.cast[acteur].name}</h5>
                     <p class="card-text">${credit.cast[acteur].character}</p>
@@ -64,10 +63,3 @@ fetch(`https://api.themoviedb.org/3/movie/${id}/credits?language=fr-FR`, options
             </div>`;
         }
     })
-
-
-// Permet de scroller une barre horizonatl avec la souris
-document.getElementById("scroll").addEventListener('wheel', (e) => {
-    e.preventDefault();
-    e.currentTarget.scrollLeft += e.deltaY;
-});

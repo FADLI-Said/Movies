@@ -27,18 +27,27 @@ fetch('https://api.themoviedb.org/3/movie/now_playing?language=fr-FR&page=1&regi
             </div>
         </a>
         </div>`
+
+      fetch(`https://api.themoviedb.org/3/movie/${film.id}/videos?language=fr-FR`, options)
+        .then((reponse) => reponse.json())
+        .then((videos) => {
+
+            document.getElementById("trailer").innerHTML += `
+        <a href="https://www.youtube.com/embed/${videos.results[0].key}" class="text-decoration-none">
+            <div class="position-relative trailer">
+                <i class="fa-solid fa-play position-absolute top-50 start-50 translate-middle"></i>
+                <img src="https://image.tmdb.org/t/p/original/${film.backdrop_path}" alt="${film.title}">
+            </div>
+            <p class="text-center fs-4 text-dark">${film.title}</p>
+        </a>`
+        });
+
     });
     const popoverTriggerList = document.querySelectorAll('[data-bs-toggle="popover"]')
     const popoverList = [...popoverTriggerList].map(popoverTriggerEl => new bootstrap.Popover(popoverTriggerEl))
 
     document.getElementById("search").style.backgroundImage = `url("https://image.tmdb.org/t/p/original${movies.results[0].backdrop_path}")`;
   })
-
-// Scroll horizontal possible avce la roulette de la souris
-// document.getElementById('film').addEventListener('wheel', (e) => {
-//   e.preventDefault();
-//   e.currentTarget.scrollLeft += e.deltaY;
-// });
 
 fetch(`https://api.themoviedb.org/3/movie/upcoming?language=fr-FR&page=1&region=FR`, options)
   .then((reponse) => reponse.json())
@@ -64,8 +73,3 @@ fetch(`https://api.themoviedb.org/3/movie/upcoming?language=fr-FR&page=1&region=
 
     document.getElementById("search").style.backgroundImage = `url("https://image.tmdb.org/t/p/original${movies.results[0].backdrop_path}")`;
   })
-
-// document.getElementById('nextFilm').addEventListener('wheel', (e) => {
-//   e.preventDefault();
-//   e.currentTarget.scrollLeft += e.deltaY;
-// });
