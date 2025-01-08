@@ -39,7 +39,7 @@ nav{
   }
   
   @keyframes js-progress {
-    to { --progress-value: 82;}
+    to { --progress-value: 0;}
   }
   
   .progress-bar {
